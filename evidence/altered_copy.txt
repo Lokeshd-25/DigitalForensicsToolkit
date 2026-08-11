@@ -1,0 +1,8 @@
+Digital Forensics Investigation
+
+Case ID: DF-001
+Evidence ID: E-001
+
+This is a sample evidence file created for forensic analysis.
+
+This line was added after evidence acquisition.
